@@ -37,5 +37,9 @@ $ npm run build-css
 $ npm start
 ```
 
+## Live Version
+
+[React Assessment - https://rbtdj.codesandbox.io/](https://rbtdj.codesandbox.io/)
+
 ![assessment](https://github.com/santoshshinde2012/assessment/blob/master/output/Assessment1.jpg)
 ![assessment](https://github.com/santoshshinde2012/assessment/blob/master/output/Assessment2.jpg)
