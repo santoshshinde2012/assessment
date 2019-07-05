@@ -45,3 +45,4 @@ $ npm start
 
 ![assessment](https://github.com/santoshshinde2012/assessment/blob/master/output/Assessment1.jpg)
 ![assessment](https://github.com/santoshshinde2012/assessment/blob/master/output/Assessment2.jpg)
+![assessment](https://github.com/santoshshinde2012/assessment/blob/master/output/Assessment3.jpg)
